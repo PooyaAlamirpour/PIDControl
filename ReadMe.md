@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-In this repository, a PID controller is implemented by using C++ to drive a steering angle for a vehicle in a circular track where has sharp left and right turns. The system must be able to stay the car in the center of the lane and try to take smooth left and right without running over the edges of the road. 
+In this repository, a `PID controller` is implemented by using C++ to drive a steering angle for a vehicle in a circular track where has sharp left and right turns. The system must be able to stay the car in the center of the lane and try to take smooth left and right without running over the edges of the road. 
 One of the critical parts of the project is working on a robotic machine is the control module. The control module defines the action, which the robotic system performs to achieve a task. These actions can vary on the type of system and type of job. A little more complex system needs a control system to move around. Highly complex systems such as self-driving cars, product manufacturing factory units require control modules for multiple tasks at the same time. 
 In this case, there is a fantastic controller that is named `PID` which consist of three main parts such as
 `Proportional (P)`, `Differential (D)`, and `Integral (I)`. This type of controller is the most popular controller and is used in applications across domains.
