@@ -1,4 +1,4 @@
-## Self-Driving Car - PIC Controller
+## Self-Driving Car - PID Controller
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
